@@ -30,11 +30,11 @@ FemSha is an e-commerce website specializing in fashion products. Whether you're
 # Shop With FemSha
 
 ### website
-https://femsha-shop-website.vercel.app/
+https://e-commerce-spring-boot-project-p-i-k-l-u.vercel.app/
 
 ### server spring boot
-https://github.com/Shahid77137/E-Commerce-Project
 
+https://github.com/p-i-k-l-u/E-commerce-SpringBoot-Project
 
 ## Tech Stack
 
@@ -170,22 +170,6 @@ https://github.com/Shahid77137/E-Commerce-Project
 ---
 
 <img src="./E-Commerce_Frontend/src/Images/Payment_Success_page.png" alt="Payment Success Page" width="100%" height="550">
-
----
-
-## 🌟Feedback
-Your valuable feedback is greatly appreciated. You can reach out to me via below medium
-
-
-
-- [Shahid](https://shahid77137.github.io/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-afridi-40ab93241/)
-
----
-
-## 📝 Acknowledgements
-- [Masai School](https://www.masaischool.com/)
 ---
 <hr>
 <h1 align="center">THANK YOU FOR VISITING OUR WEBSITE</h1>
